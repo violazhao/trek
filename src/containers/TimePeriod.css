@@ -1,0 +1,17 @@
+.timeperiod {
+    margin-left: 200px;
+    color: white;
+}
+
+.header {
+    margin-left: -25px;
+}
+
+.cursor {
+    cursor:pointer;
+}
+
+.text {
+    text-decoration: none;
+    color: white;
+}
