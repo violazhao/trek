@@ -2,7 +2,11 @@
 
 Web-application outputs movie recommendations based on user inputs, includes a share feature for users to share results with friends.
 
-## Available Scripts
+## Dependencies
+
+React, MongoDB, Flask API, utilizes subset of HBOMax movie database
+
+## Usage
 
 Open a new terminal window and run:
 
