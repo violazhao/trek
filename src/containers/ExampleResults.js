@@ -1,8 +1,5 @@
 import React, { useState } from "react";
-import PAP from "../posters/prideandprejudice.png";
-import JE from "../posters/janeeyre.png";
-import BAT from "../posters/breakfastattiffanys.png";
-import SAS from "../posters/senseandsensibility.png";
+import MOVIE from "../images/movie.jpg";
 import Popup from "./Popup";
 
 import "./Results.css";
@@ -19,19 +16,19 @@ export const ExampleResults = ({ results }) => {
       <h3> Best Match... </h3>
       <div className="image-list-small">
         <li>
-          <img className="img2" src={PAP} alt="PAP"></img>
+          <img className="img2" src={MOVIE} alt="MOVIE"></img>
         </li>
       </div>
       <h3> Other Matches... </h3>
       <div className="image-list-small">
         <li>
-          <img className="img2" src={SAS} alt="SAS"></img>
+          <img className="img2" src={MOVIE} alt="MOVIE"></img>
         </li>
         <li>
-          <img className="img2" src={BAT} alt="BAT"></img>
+          <img className="img2" src={MOVIE} alt="MOVIE"></img>
         </li>
         <li>
-          <img className="img2" src={JE} alt="JE"></img>
+          <img className="img2" src={MOVIE} alt="MOVIE"></img>
         </li>
       </div>
       <input
