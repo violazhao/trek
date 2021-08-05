@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import MOVIE from "../images/movie.jpg";
+import MOVIE from "../images/Movie.jpg";
 import Popup from "./Popup";
 
 import "./Results.css";
