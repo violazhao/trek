@@ -4,7 +4,7 @@ Web-application outputs movie recommendations based on user inputs, includes a s
 
 ## Dependencies
 
-React, MongoDB, Flask API, utilizes subset of HBOMax movie database
+React, MongoDB, Flask, and Python
 
 ## Usage
 
